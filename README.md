@@ -57,5 +57,4 @@ The following diagram show the process/workflow of the application. e.g
 run ``` bundle exe rspec   ``` to run the tests
 
 
-![alt text](https://raw.githubusercontent.com/sajjadmurtaza/heyjobs_service/master/heyjobs.png "heyjobs Screenshot")
 
