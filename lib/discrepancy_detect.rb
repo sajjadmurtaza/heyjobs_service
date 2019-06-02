@@ -58,4 +58,9 @@ class DiscrepancyDetect < Heyjob
 
 end
 
-# p DiscrepancyDetect.call
+#
+# ********************************************
+#          Calling
+# ********************************************
+#
+p DiscrepancyDetect.call
